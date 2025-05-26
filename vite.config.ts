@@ -20,8 +20,10 @@ export default defineConfig(({ mode }) => ({
     },
   },
   build: {
+    outDir: 'dist',
+    sourcemap: true,
     rollupOptions: {
-      external: ['@supabase/supabase-js'],
+      // external: ['@supabase/supabase-js'],
     },
   },
 }));
