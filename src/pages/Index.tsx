@@ -143,7 +143,7 @@ const Index = () => {
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Fill out the form below to submit your product for review and
           </p>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+          <p className="text-lg bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">
           Join 100 + Founders on the list to get featured
           </p>
         </div>
