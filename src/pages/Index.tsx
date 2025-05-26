@@ -141,7 +141,7 @@ const Index = () => {
             Ready to Get Featured?
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Fill out the form below to submit your product for review
+            Fill out the form below to submit your product for review and Join 100 + Founders on the list
           </p>
         </div>
 
