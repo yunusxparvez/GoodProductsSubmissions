@@ -144,7 +144,7 @@ const Index = () => {
             Fill out the form below to submit your product for review and
           </p>
           <p className="text-lg bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">
-          Join 100 + Founders on the list to get featured
+          Join 100+ Founders on the list to get featured
           </p>
         </div>
 
